@@ -152,6 +152,6 @@ You can test the APIs using:
 
 ## 👨‍💻 Author
 
-Developed by **Syed Yasmin**
+Developed by **Sayyad Yasmin**
 
 ---
