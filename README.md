@@ -7,7 +7,7 @@ This project demonstrates how to build a clean backend architecture using **Cont
 
 ## 🚀 Technologies Used
 
-* Java 17
+* Java 21
 * Spring Boot
 * Spring Data JPA
 * Hibernate ORM
