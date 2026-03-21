@@ -5,7 +5,7 @@ This project demonstrates how to build a clean backend architecture using **Cont
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 * Java 21
 * Spring Boot
