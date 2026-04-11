@@ -59,7 +59,6 @@
 			<artifactId>jakarta.persistence-api</artifactId>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
@@ -68,5 +67,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
